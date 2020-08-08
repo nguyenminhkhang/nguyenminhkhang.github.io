@@ -21,6 +21,7 @@ div {
     width: 750px;
     height: 650px;
     box-shadow: 10px 10px 100px rgb(165, 230, 16);
+    border: burlywood;
 }
 .d {
     padding-top: 30px;
