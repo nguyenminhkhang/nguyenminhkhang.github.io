@@ -20,8 +20,8 @@ div {
     background:rgb(7, 7, 151);
     width: 750px;
     height: 650px;
-    box-shadow: 10px 10px 100px rgb(165, 230, 16);
-    border: burlywood;
+    box-shadow: 10px 10px 100px rgba(0, 0, 0, 0);
+    border:  burlywood;
 }
 .d {
     padding-top: 30px;
