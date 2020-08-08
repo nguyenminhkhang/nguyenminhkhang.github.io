@@ -3,11 +3,25 @@ body {
 }
 .a {
     color:white;
-    font-size: larger;
 }
 .b {
-    color: yellowgreen;
+    color: rgb(240, 255, 36);
 }
 .c {
     color:white;
+}
+div {
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background:rgb(7, 7, 151);
+    width: 700px;
+    height: 650px;
+    box-shadow: 10px 10px 100px rgb(165, 230, 16);
+}
+.d {
+    padding-top: 30px;
+    width: 144.5px;
+    height: 216.75;
+    border-radius: 50%;
 }
