@@ -1,0 +1,8 @@
+nav {
+    background-color: darkmagenta;
+    height: 40px;
+    text-decoration: none;
+    }
+.navbar  a {
+    color: white;
+}
