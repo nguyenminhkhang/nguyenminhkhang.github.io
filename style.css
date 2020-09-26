@@ -1,3 +1,7 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
 nav {
     background-color: darkmagenta;
     height: 40px;
