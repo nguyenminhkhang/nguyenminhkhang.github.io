@@ -3,11 +3,17 @@
     margin: 0px;
 }
 nav {
-    background-color: darkmagenta;
+    background-color: #30336b;
     height: 40px;
     text-decoration: none;
     }
 .navbar  a {
-    color: white;
     padding-right: 10px;
+    padding-top: 10px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #95afc0;
 }
+
+
