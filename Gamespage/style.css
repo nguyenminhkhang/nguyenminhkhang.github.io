@@ -6,19 +6,23 @@
     display: flex;
     flex-direction: column;
     width: 30%;
-    border: #c6d4df solid 10px;
-    background-color: #c6d4df;
+    border: #30336b solid 10px;
+    background-color: #30336b;
     margin: 30px;
+    color: white;
 }
 .box{
     display: flex;
 }
 .flex img {
-    width: 90%;
-    padding-left: 15px;
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
 }
 .flex a {
     font-size: 30px;
+    color: white;
+    text-decoration: none;
 }
 nav {
     background-color: #30336b;
@@ -36,4 +40,11 @@ nav {
     font-size: 20px;
     color: #95afc0;
     padding-left: 30px;
+}
+.goose {
+    height: 100%;
+}
+.flex:hover{
+    box-shadow: 10px 10px 100px gray;
+    transition: 1s;
 }

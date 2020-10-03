@@ -1,0 +1,18 @@
+nav {
+    background-color: #30336b;
+    height: 40px;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    justify-content: space-around;
+    }
+.navbar  a {
+    padding-right: 20px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #95afc0;
+    padding-left: 30px;
+}
+
