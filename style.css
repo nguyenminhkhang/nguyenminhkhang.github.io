@@ -8,7 +8,7 @@ nav {
     text-decoration: none;
     padding-top: 10px;
     padding-left: 10px;
-    
+    margin-bottom: 10px;
     }
 .navbar  a {
     padding-right: 20px;
@@ -29,9 +29,20 @@ h4{
     font-family: 'Roboto', sans-serif;
     padding-bottom: 20px;
     padding-top: 20px;
+    color: #95afc0;
 }
 p{
     font-family: 'Roboto', sans-serif;
+    color: #95afc0;
 }
-
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    position: relative;
+}
+.footer-father{
+   position: absolute;
+   bottom: 0;
+}
 
