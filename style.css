@@ -9,6 +9,7 @@ nav {
     padding-top: 10px;
     padding-left: 10px;
     margin-bottom: 10px;
+    justify-content: space-around;
     }
 .navbar  a {
     padding-right: 20px;
@@ -16,6 +17,7 @@ nav {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     color: #95afc0;
+    padding-left: 30px;
 }
 .footer-item{
     width: 25%;
@@ -45,14 +47,4 @@ p{
    position: absolute;
    bottom: 0;
 }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-.gameshere {
-    width: 100%;
-}
-=======
 
->>>>>>> f39d1a93b384d5451495c5dd3cc598abfbd346f4
-
->>>>>>> 95d1f51b4b60931156a47e0de03c9f400166830b
