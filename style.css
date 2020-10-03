@@ -1,7 +1,8 @@
-*{
+* {
     padding: 0px;
     margin: 0px;
 }
+
 nav {
     background-color: #30336b;
     height: 40px;
@@ -10,8 +11,9 @@ nav {
     padding-left: 10px;
     margin-bottom: 10px;
     justify-content: space-around;
-    }
-.navbar  a {
+}
+
+.navbar a {
     padding-right: 20px;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
@@ -19,38 +21,45 @@ nav {
     color: #95afc0;
     padding-left: 30px;
 }
-.footer-item{
+
+.footer-item {
     width: 25%;
 }
-.footer-container{
+
+.footer-container {
     display: flex;
     justify-content: space-between;
     padding: 20px 10%;
 }
-h4{
+
+h4 {
     font-family: 'Roboto', sans-serif;
     padding-bottom: 20px;
     padding-top: 20px;
     color: #95afc0;
 }
-p{
+
+p {
     font-family: 'Roboto', sans-serif;
     color: #95afc0;
 }
-.container{
+
+.container {
     display: flex;
     flex-direction: column;
     height: 100vh;
     position: relative;
 }
-.footer-father{
+
+/* .footer-father{
    position: absolute;
    bottom: 0; 
    
-}
-h1{
+} */
+h1 {
     font-family: 'Roboto', sans-serif;
 }
+
 .glow {
     font-size: 20px;
     color: #fff;
@@ -59,32 +68,38 @@ h1{
     -moz-animation: glow 0.2s ease-in-out infinite alternate;
     animation: glow 0.2s ease-in-out infinite alternate;
     margin-top: 30px;
-  }
-  
-  @-webkit-keyframes glow {
+}
+
+@-webkit-keyframes glow {
     from {
-      text-shadow: 0 0 5px #fff, 0 0 5px #fff, 0 0 10px #d63031, 0 0 20px #d63031, 0 0 25px #d63031, 0 0 30px #d63031, 0 0 35px #d63031;
+        text-shadow: 0 0 5px #fff, 0 0 5px #fff, 0 0 10px #d63031, 0 0 20px #d63031, 0 0 25px #d63031, 0 0 30px #d63031, 0 0 35px #d63031;
     }
+
     to {
-      text-shadow: 0 0 10px #fff, 0 0 15px #ff7675, 0 0 20px #ff7675, 0 0 25px #ff7675, 0 0 30px #ff7675, 0 0 35px #ff7675, 0 0 40px #ff7675;
+        text-shadow: 0 0 10px #fff, 0 0 15px #ff7675, 0 0 20px #ff7675, 0 0 25px #ff7675, 0 0 30px #ff7675, 0 0 35px #ff7675, 0 0 40px #ff7675;
     }
-  }
-  .cart-container{
-      background-color: #30336b;
-      height: 300px;
-      width: 60%;
-      margin: auto;
-      display: flex;
-      margin-top: 30px;
-    
-  }
-  .cart-container img{
-      height: 100%;
-  }
-  .intro-game{
-      
-      height: 100%;
-      width: 100%;
+}
 
-  }
+.cart-container {
+    background-color: #30336b;
+    height: 300px;
+    width: 60%;
+    margin: auto;
+    display: flex;
+    margin-top: 30px;
 
+}
+
+.cart-container img {
+    height: 100%;
+}
+
+.intro-game {
+
+    height: 100%;
+    width: 100%;
+
+}
+.footer-father{
+    margin-top: 50px;
+}
