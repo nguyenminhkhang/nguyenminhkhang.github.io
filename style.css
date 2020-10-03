@@ -47,4 +47,24 @@ p{
    position: absolute;
    bottom: 0;
 }
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+.glow {
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    -webkit-animation: glow 0.2s ease-in-out infinite alternate;
+    -moz-animation: glow 0.2s ease-in-out infinite alternate;
+    animation: glow 0.2s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 5px #fff, 0 0 5px #fff, 0 0 10px #d63031, 0 0 20px #d63031, 0 0 25px #d63031, 0 0 30px #d63031, 0 0 35px #d63031;
+    }
+    to {
+      text-shadow: 0 0 10px #fff, 0 0 15px #ff7675, 0 0 20px #ff7675, 0 0 25px #ff7675, 0 0 30px #ff7675, 0 0 35px #ff7675, 0 0 40px #ff7675;
+    }
+  }
 
