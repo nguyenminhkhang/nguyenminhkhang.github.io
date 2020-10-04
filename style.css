@@ -103,3 +103,13 @@ h1 {
 .footer-father{
     margin-top: 50px;
 }
+.best-selling {
+    
+    height: 300px;
+    width: 60%;
+    margin: auto;
+    display: flex;
+    margin-top: 30px;
+    
+
+}
