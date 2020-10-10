@@ -15,4 +15,13 @@ nav {
     color: #95afc0;
     padding-left: 30px;
 }
+.amongusdescription {
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    width: 100%;
+}
+.amongusimg {
+    width: 90%;
+}
 
