@@ -95,9 +95,10 @@ h1 {
 }
 
 .intro-game {
-
+    background-color:#30336b ;
     height: 100%;
     width: 100%;
+    padding-right: 10px;
 
 }
 .footer-father{
@@ -113,4 +114,13 @@ h1 {
 }
 .dark-souls{
     flex-direction: column;
+}
+.main-content{
+    display: flex;
+}
+.main-content .left{
+    width: 150px;
+}
+.intro-game-box{
+    display: flex;
 }
