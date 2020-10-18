@@ -1,5 +1,9 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
 nav {
-    background-color: #30336b;
+    background-color: #2f3640;
     height: 40px;
     text-decoration: none;
     padding-top: 10px;
