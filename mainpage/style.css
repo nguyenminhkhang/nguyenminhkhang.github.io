@@ -9,8 +9,9 @@ nav {
     text-decoration: none;
     padding-top: 10px;
     padding-left: 10px;
-
+    position: fixed;
     justify-content: space-around;
+    width: 100%;
 }
 
 .navbar a {
@@ -120,5 +121,5 @@ h1 {
 }
 #myVideo{
     width: 100%;
-    padding: 0px
+    padding: 0px;
 }
