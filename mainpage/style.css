@@ -19,7 +19,7 @@ nav {
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    color: #95afc0;
+    color: white;
     padding-left: 30px;
 }
 
@@ -66,9 +66,6 @@ h1 {
     font-size: 20px;
     color: #fff;
     text-align: center;
-    -webkit-animation: glow 0.2s ease-in-out infinite alternate;
-    -moz-animation: glow 0.2s ease-in-out infinite alternate;
-    animation: glow 0.2s ease-in-out infinite alternate;
     margin-top: 30px;
 }
 
@@ -123,3 +120,4 @@ h1 {
     width: 100%;
     padding: 0px;
 }
+

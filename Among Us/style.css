@@ -27,6 +27,7 @@ nav {
 }
 .amongusimg {
     width: 90%;
+    display: flex;
 }
 
 

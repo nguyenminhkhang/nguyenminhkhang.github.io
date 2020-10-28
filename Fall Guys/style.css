@@ -1,5 +1,5 @@
 nav {
-    background-color: #30336b;
+    background-color: #2f3640;
     height: 40px;
     text-decoration: none;
     padding-top: 10px;
@@ -12,7 +12,12 @@ nav {
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    color: #95afc0;
+    color: white;
     padding-left: 30px;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+
 
