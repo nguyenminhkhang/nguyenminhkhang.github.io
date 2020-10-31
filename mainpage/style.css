@@ -46,12 +46,12 @@ p {
     color: #95afc0;
 }
 
-.container {
+/* .container {
     display: flex;
     flex-direction: column;
     height: 100vh;
     position: relative;
-}
+} */
 
 /* .footer-father{
    position: absolute;
@@ -120,4 +120,5 @@ h1 {
     width: 100%;
     padding: 0px;
 }
+
 
