@@ -123,7 +123,7 @@ h1 {
 .container {
     position: relative;
     width: 250px;
-    padding: 10px
+    padding: 10px;
   }
   
   .image {
@@ -155,10 +155,10 @@ h1 {
   }
   
   .text {
-    background-color: #4CAF50;
     color: white;
-    font-size: 14px;
+    font-size: 25px;
     padding: 10px 32px;
+    font-weight: 200;
   }
   .alo{
       display: flex;
